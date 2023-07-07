@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**heritiana1/heritiana1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there✋
 
 - 🔭 I’m Sylvanna, I'm student from Sayna, it's digital school to learn all digitals jobs with a good family spirit and game way
 - 🌱 I’m interesting in WordPress
